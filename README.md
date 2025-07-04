@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sujay Kumar Giri</h1>
+![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/5c5ad2dc-eab4-43bb-8e94-3d2ea5ed1725)
+
 <h3 align="center">A passionate Full-stack developer skilled in MERN stack (MongoDB, Express, React, Node.js)m India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giribabu-2004&label=Profile%20views&color=0e75b6&style=flat" alt="giribabu-2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giribabu-2004" alt="giribabu-2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=giribabu-2004" alt="giribabu-2004" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_giri_sujay02" target="blank"><img src="https://img.shields.io/twitter/follow/_giri_sujay02?logo=twitter&style=for-the-badge" alt="_giri_sujay02" /></a> </p>
 
