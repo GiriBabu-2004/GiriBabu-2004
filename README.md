@@ -6,7 +6,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/_giri_sujay02" target="blank"><img src="https://img.shields.io/twitter/follow/_giri_sujay02?logo=twitter&style=for-the-badge" alt="_giri_sujay02" /></a> </p>
 
 - 💬 Ask me about **Anything**
 
